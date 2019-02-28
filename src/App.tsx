@@ -6,6 +6,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text>Welcome to Voice Connect Tallyrists!</Text>
+        <Text>The project is set ...</Text>
       </View>
     );
   }
